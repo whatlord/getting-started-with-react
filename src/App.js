@@ -1,7 +1,8 @@
 import './App.css';
+import Greeting from "./Greeting.js"
 
 function App() {
-  return <h1>Hello World</h1>
+  return <Greeting language="th" />
 }
 
 export default App;
