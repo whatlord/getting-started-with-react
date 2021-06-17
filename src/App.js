@@ -1,7 +1,8 @@
 import './App.css';
+import SubscriberForm from './SubscriberForm.js'
 
 function App() {
-  return <h1>Hello World</h1>
+  return <SubscriberForm />
 }
 
 export default App;
