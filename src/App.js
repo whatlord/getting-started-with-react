@@ -1,8 +1,8 @@
 import './App.css';
-import SubscriberForm from './SubscriberForm.js'
+import SubscriberFormComplex from './SubscriberFormComplex.js'
 
 function App() {
-  return <SubscriberForm />
+  return <SubscriberFormComplex />
 }
 
 export default App;
